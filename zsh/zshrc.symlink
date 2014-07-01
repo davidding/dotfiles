@@ -46,4 +46,7 @@ do
   source $file
 done
 
+source /usr/local/bin/virtualenvwrapper.sh
+source ~/.autoenv/activate.sh
+
 unset config_files
