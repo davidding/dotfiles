@@ -75,4 +75,6 @@ if [[ ! -d "$TMPPREFIX" ]]; then
   mkdir -p "$TMPPREFIX"
 fi
 
-export WORKON_HOME=~/Envs
+#export WORKON_HOME=~/Envs
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/
+export REBEL_HOME=/Applications/jrebel
