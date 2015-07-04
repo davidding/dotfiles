@@ -1,4 +1,5 @@
 *Forked from [holman/dotfiles](https://github.com/holman/dotfiles)*
+*Some stuff from [jacobwgillespie/dotfiles](https://github.com/jacobwgillespie/dotfiles)*
 
 ------------------
 
