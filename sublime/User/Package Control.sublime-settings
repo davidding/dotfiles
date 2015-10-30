@@ -1,11 +1,24 @@
 {
-	"in_process_packages":
-	[
-	],
-	"installed_packages":
-	[
-		"Package Control",
-		"SublimeLinter",
-		"SublimeLinter-contrib-eslint",
-	]
+  "bootstrapped": true,
+  "in_process_packages":
+  [
+  ],
+  "installed_packages":
+  [
+    "BracketHighlighter",
+    "Color Highlighter",
+    "Emmet",
+    "Git",
+    "GitGutter",
+    "Handlebars",
+    "LESS",
+    "Markdown Preview",
+    "MarkdownEditing",
+    "Package Control",
+    "SideBarEnhancements",
+    "SublimeCodeIntel",
+    "SublimeLinter",
+    "SublimeLinter-contrib-eslint",
+    "Theme - Soda"
+  ]
 }
