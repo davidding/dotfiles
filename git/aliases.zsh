@@ -11,6 +11,7 @@ alias gl='git pull --prune'
 alias gm='git merge'
 alias glog="git log --graph --pretty=format:'%Cred%h%Creset %an: %s - %Creset %C(yellow)%d%Creset %Cgreen(%cr)%Creset' --abbrev-commit --date=relative"
 alias gp='git push origin HEAD'
+alias gpu='git push -u origin HEAD'
 alias gd='git diff'
 alias gdup='git diff @{upstream}'
 alias gc='git commit'
