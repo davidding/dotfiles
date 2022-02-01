@@ -27,6 +27,7 @@ alias ga='git add'
 alias ga.='git add .'
 alias gr="git reset"
 alias grh="git reset --hard"
+alias gnow='git commit --amend --date="now"'
 
 function gdel() {
   git fetch -p && git branch -vv | awk '/: gone]/{print $1}' | xargs git branch -d
